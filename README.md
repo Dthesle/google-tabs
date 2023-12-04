@@ -6,9 +6,7 @@
 <p align="center">The deployable version of Google Tabs, a highly sophisticated proxy used for evading internet censorship or accessing websites in a controlled sandbox using the power of service-workers and more!<br><br></p>
 
 ## Quick Deployments
-[![Deploy to Heroku](https://raw.githubusercontent.com/BinBashBanana/deploy-buttons/master/buttons/remade/heroku.svg)](https://heroku.com/deploy/?template=https://github.com/testingherokuapp/google-tabs)
-[![Run on Replit](https://raw.githubusercontent.com/BinBashBanana/deploy-buttons/master/buttons/remade/replit.svg)](https://replit.com/github/testingherokuapp/google-tabs)
-<a target="_blank" href="https://glitch.com/edit/#!/import/git?url=https://github.com/testingherokuapp/google-tabs"><img alt="Remix on Glitch" src="https://raw.githubusercontent.com/BinBashBanana/deploy-buttons/master/buttons/remade/glitch.svg"></a>
+[![Deploy to Render](https://binbashbanana.github.io/deploy-buttons/buttons/remade/render.svg)](https://render.com/deploy?repo=https://github.com/Dthesle/google-tabs)
 
 ## Features
 - CAPTCHA support along with hCAPTCHA support
