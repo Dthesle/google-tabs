@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: mathematic-tuition
+    name: toopis-plutonium
     region: oregon
     plan: free
     runtime: node
